@@ -26,7 +26,7 @@ The **3D Gasket TV Ident Animation** showcases interactive 3D transformations of
 - **Colour Properties:** Choose from custom, monochrome, or pastel color schemes.
 - **Animation Speed:** Control animation speed from 0.5 to 2.0 (default: 0.9).
 - **Animation Scale:** Adjust scale between 0.3 and 3.0 (default: 1.0).
-- **Start/Stop Button:** Toggle animation on/off, pausing and resuming as needed.
+- **Start/Stop Button:** Click "Start" to begin the animation, "Stop" to pause, and "Start" again to resume.
 - **Reset Button:** Resets animation to its original state and stops any running animations.
 
 ## How to Run the Project:
