@@ -1,7 +1,7 @@
 # 3D Gasket TV Ident Animation
 
 <a href="https://lithia22.github.io/CPC354_Assignment_1/" target="_blank">
-  <img src="3DGasket.png" alt="Preview of 3D Gasket TV Ident Animation" width="1200px" style="cursor: pointer;" />
+  <img src="FrontReadme.png" alt="Preview of 3D Gasket TV Ident Animation" width="1200px" style="cursor: pointer;" />
 </a>
 
 Click on the image above to visit the project.
